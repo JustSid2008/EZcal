@@ -1,0 +1,47 @@
+body {
+    background-color: rgba(77, 193, 252, 0.7);  
+}
+
+.Border {
+    border: solid green;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.tite {
+    font-size: 50px;
+    text-align: center;
+}
+
+.sec {
+    margin: 10px;
+    height: 50px;
+    width: 550px;
+    border-radius: 15px;
+}
+
+.fir {
+    margin: 10px;
+    height: 50px;
+    width: 550px;
+    border-radius: 15px;
+}
+
+.ans {
+    text-align: center;
+}
+
+.ope {
+    margin: 20px;
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.butt{
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+}
